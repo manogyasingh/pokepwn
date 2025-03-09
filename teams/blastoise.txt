@@ -1,0 +1,53 @@
+Arcanine  
+Ability: No Ability  
+Level: 50  
+Adamant Nature  
+- Flare Blitz  
+- Superpower  
+- Flamethrower  
+- Crunch  
+
+Blastoise-Mega
+Ability: No Ability  
+Level: 50  
+Modest Nature  
+- Hydro Pump  
+- Surf  
+- Ice Beam  
+- Dark Pulse  
+
+Vileplume  
+Ability: No Ability  
+Level: 50  
+Calm Nature  
+- Mega Drain  
+- Sludge Bomb  
+- Sleep Powder  
+- Toxic  
+
+Alakazam  
+Ability: No Ability  
+Level: 50  
+Timid Nature  
+- Psychic  
+- Shadow Ball  
+- Taunt  
+- Recover  
+
+Rhydon  
+Ability: No Ability  
+Level: 50  
+Impish Nature  
+- Earthquake  
+- Rock Slide  
+- Thunder Punch  
+- Ice Punch  
+
+Tauros
+Ability: No Ability  
+Level: 50  
+Jolly Nature  
+- Double-Edge  
+- Earthquake  
+- Rock Slide  
+- Facade  

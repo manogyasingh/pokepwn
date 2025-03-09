@@ -1,0 +1,54 @@
+Pikachu-Starter  
+Ability: No Ability  
+Level: 50  
+Lonely Nature  
+- Thunderbolt  
+- Floaty Fall  
+- Splishy Splash  
+- Zippy Zap  
+
+Arcanine  
+Ability: No Ability  
+Level: 50  
+Adamant Nature  
+- Flare Blitz  
+- Superpower  
+- Flamethrower  
+- Crunch  
+
+Gyarados  
+Ability: No Ability  
+Level: 50  
+Adamant Nature  
+- Waterfall  
+- Earthquake  
+- Crunch  
+- Taunt  
+
+Vileplume  
+Ability: No Ability  
+Level: 50  
+Calm Nature  
+- Mega Drain  
+- Sludge Bomb  
+- Sleep Powder  
+- Toxic  
+
+Golem  
+Ability: No Ability  
+Level: 50  
+Adamant Nature  
+- Earthquake  
+- Rock Slide  
+- Double-Edge  
+- Fire Punch  
+
+Snorlax  
+Ability: No Ability  
+Level: 50  
+Brave Nature  
+- Body Slam  
+- Earthquake  
+- Thunder Punch  
+- Crunch  
+

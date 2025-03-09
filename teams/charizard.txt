@@ -1,0 +1,54 @@
+Charizard-Mega-Y 
+Ability: No Ability  
+Level: 50  
+Hasty Nature  
+- Fire Blast  
+- Flamethrower  
+- Thunder Punch  
+- Earthquake  
+
+Gyarados  
+Ability: No Ability  
+Level: 50  
+Adamant Nature  
+- Waterfall  
+- Earthquake  
+- Crunch  
+- Taunt  
+
+Vileplume  
+Ability: No Ability  
+Level: 50  
+Calm Nature  
+- Mega Drain  
+- Sludge Bomb  
+- Sleep Powder  
+- Toxic  
+
+Gengar  
+Ability: No Ability  
+Level: 50  
+Modest Nature  
+- Shadow Ball  
+- Sludge Bomb  
+- Psychic  
+- Thunderbolt  
+
+Rhydon  
+Ability: No Ability  
+Level: 50  
+Impish Nature  
+- Earthquake  
+- Rock Slide  
+- Thunder Punch  
+- Ice Punch  
+
+Tauros  
+Ability: No Ability  
+Level: 50  
+Jolly Nature  
+- Double-Edge  
+- Earthquake  
+- Rock Slide  
+- Facade  
+

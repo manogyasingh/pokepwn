@@ -1,0 +1,54 @@
+Arcanine  
+Ability: No Ability  
+Level: 50  
+Adamant Nature  
+- Flare Blitz  
+- Superpower  
+- Flamethrower  
+- Crunch  
+
+Gyarados  
+Ability: No Ability  
+Level: 50  
+Adamant Nature  
+- Waterfall  
+- Earthquake  
+- Crunch  
+- Taunt  
+
+Venusaur-Mega
+Ability: No Ability  
+Level: 50  
+Quiet Nature  
+- Power Whip  
+- Mega Drain  
+- Sludge Bomb  
+- Toxic  
+
+Dugtrio  
+Ability: No Ability  
+Level: 50  
+Adamant Nature  
+- Earthquake  
+- Rock Slide  
+- Scratch  
+- Facade
+
+Golem  
+Ability: No Ability  
+Level: 50  
+Adamant Nature  
+- Earthquake  
+- Rock Slide  
+- Double-Edge  
+- Fire Punch  
+
+Snorlax  
+Ability: No Ability  
+Level: 50  
+Brave Nature  
+- Body Slam  
+- Earthquake  
+- Thunder Punch  
+- Crunch  
+
