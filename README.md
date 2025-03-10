@@ -2,7 +2,7 @@
 
 ## What is this?
 My solution for Pokèseek, a competition hosted by ARIES, IITD where the task was to make the best Pokèmon Showdown bot.
-This is a rule based solution that really only handles the situation within the constraints of the challenge. For a more robust approach, try foul-play (uses MCTS) or reinforcement learning.
+This is a rule based solution that really only handles the situation within the constraints of the challenge. For a more robust approach, try [pmariglia/foul-play](https://github.com/pmariglia/foul-play) (uses MCTS) or reinforcement learning.
 
 ## How to Run?
 Clone the original server code
@@ -21,4 +21,8 @@ cd ../server
 npm i
 ```
 
-And then just run the server and driver as per the instructions in the orignal repo linked above (/Aries-IITD/Tryst-RL-Codebase)
+And then just run the server and driver as per the instructions in the orignal repo linked above (Aries-IITD/Tryst-RL-Codebase)
+
+## Why did you even post this?
+I'll keep making better versions and it would be useful to be able to compare them all.
+##
