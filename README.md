@@ -11,7 +11,7 @@ git clone https://github.com/Aries-IITD/Tryst-RL-Codebase
 ```
 
 Then copy paste all files here in the client folder (replace existing files)
-After that install both client dependencies with
+After that install both client and server dependencies with
 
 ```
 cd client
